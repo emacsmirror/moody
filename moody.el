@@ -1,6 +1,6 @@
 ;;; moody.el --- Tabs and ribbons for the mode line  -*- lexical-binding:t -*-
 
-;; Copyright (C) 2018-2025 Jonas Bernoulli
+;; Copyright (C) 2018-2026 Jonas Bernoulli
 
 ;; Author: Jonas Bernoulli <emacs.moody@jonas.bernoulli.dev>
 ;; Homepage: https://github.com/tarsius/moody
