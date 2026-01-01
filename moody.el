@@ -579,5 +579,6 @@ be used as an advice to window creation functions."
 (provide 'moody)
 ;; Local Variables:
 ;; indent-tabs-mode: nil
+;; lisp-indent-local-overrides: ((cond . 0) (interactive . 0))
 ;; End:
 ;;; moody.el ends here
