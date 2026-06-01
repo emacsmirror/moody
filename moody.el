@@ -6,7 +6,7 @@
 ;; Homepage: https://github.com/tarsius/moody
 ;; Keywords: faces
 
-;; Package-Version: 1.2.2
+;; Package-Version: 1.2.3
 ;; Package-Requires: (
 ;;     (emacs  "28.1")
 ;;     (compat "31.0"))
